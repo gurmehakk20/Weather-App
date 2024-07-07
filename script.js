@@ -1,5 +1,5 @@
 const prevCity = "Kolkata";
-const apiId = "&appid=e3356fbf97586bbdd71ec18a02e3839e";
+const apiId = ...........;
 const BASE_URL = "https://api.openweathermap.org/data/2.5/weather?q=";
 
 let city = document.querySelector(".city");
